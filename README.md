@@ -1,12 +1,12 @@
 # 🎓 Binary Classification — Student Exam Performance
 
-!\[Python](https://img.shields.io/badge/Python-3.11-blue?logo=python\&logoColor=white)
-!\[Pandas](https://img.shields.io/badge/Pandas-2.0-150458?logo=pandas\&logoColor=white)
-!\[Seaborn](https://img.shields.io/badge/Seaborn-0.12-4C72B0)
-!\[Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3-F7931E?logo=scikit-learn\&logoColor=white)
-!\[Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-!\[ML](https://img.shields.io/badge/ML-Classification-blueviolet)
-!\[Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.0-150458?logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12-4C72B0)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3-F7931E?logo=scikit-learn&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![ML](https://img.shields.io/badge/ML-Classification-blueviolet)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 A complete Binary Classification project predicting whether a student will **Pass or Fail** their exam using Logistic Regression — covering the full ML workflow from raw data to model evaluation.
 
